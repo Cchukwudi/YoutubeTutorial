@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">YoutubeTutorial</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="create_sample_data">create_sample_data</string>
+    <string name="delete_all_notes">delete_all_data</string>
+    <string name="delete_all_data">delete_all_data</string>
+    <string name="All_Deleted">"All notes deleted"</string>
+    <string name="are_you_sure">Are you sure</string>
+    <string name="title_activity_editor">EditorActivit</string>
+    <string name="new_note">New note</string>
+    <string name="note_update">Note Update</string>
+    <string name="action_delete">Delete</string>
+    <string name="note_deleted">Note deleted</string>
+</resources>
